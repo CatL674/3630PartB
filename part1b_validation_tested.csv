@@ -1,0 +1,6 @@
+method,actions,energy_used,battery_left,path_replay
+BFS,7,19,0,PASS
+DFS,8,19,0,PASS
+Uniform-cost,7,18,1,PASS
+Heuristic-guided,7,19,0,PASS
+A*,7,18,1,PASS
